@@ -1,0 +1,68 @@
+body{
+	background-image: url(https://oir.mobi/uploads/posts/2021-01/1611925569_8-p-zadnii-fon-temnii-8.jpg);
+	background-repeat: no-repeat;
+}
+
+.header{
+	color: #fff;
+	margin-top: 35px;
+	text-align: center;
+	font-size: 24px;
+}
+
+.base{
+	color: #d09ef0;
+	margin-top:	50px;
+	margin-left: 25px;
+	font-size: 25px;
+}
+
+.list1{
+	color: #ad25c2;
+	margin-top: -15px;
+	font-size: 20px;
+}
+
+.info{
+	color: #60b7d1;
+	margin-top: 75px;
+	font-family: Courier New, monospace;
+}
+
+.info-me{
+	color: #6cc9e5; 
+	font-family: Courier New, monospace;
+	font-size: 18px;
+	margin-top: -12px;
+	font-style: italic;
+}
+
+.my-photo{
+	margin-left: 600px;
+	margin-top: -370px;
+}
+
+.contacts{
+	color: #cbcf17;
+}
+
+.contact-list{
+	color: #edf060;
+}
+
+.my-jobs{
+	color: #ed4040;
+	font-size: 30px;
+}
+
+
+.jobs{
+	color: #de0000;
+	font-size: 23px;
+}
+
+.end{
+	font-size: 27px;
+	margin-left: 1080px;
+	color: #c4b7b7;
+}
